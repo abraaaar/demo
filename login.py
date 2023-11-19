@@ -1,6 +1,3 @@
-"""
-This module contains a login function and its unit tests.
-"""
 
 def login(username, password):
     """
